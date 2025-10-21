@@ -1,0 +1,19 @@
+Overview:
+
+This project provided the opportunity to integrate programming and cybersecurity concepts in a practical, hands-on way. I developed a Java-based program that enables users to create, encrypt, and securely store personal notes. The system implements AES encryption, file-based authentication, and a simple GUI to ensure both usability and data protection. My objective was to demonstrate how core security principles can be seamlessly incorporated into everyday software design.
+
+Strengths: 
+
+Applied encryption and authentication techniques in a real-world context.
+Strengthened understanding of secure software architecture and data handling.
+Enhanced Java programming, debugging, and system design skills.
+
+Challenges & Future Improvements: 
+
+Integrating encryption with file I/O required extensive troubleshooting and testing.
+Future updates will include password hashing, improved error handling, and a refined user interface.
+Plan to explore containerized environments for secure deployment and testing.
+
+Key Takeaways: 
+
+Developing this project solidified my understanding of how core cybersecurity principles can be implemented in software design. It also emphasized the importance of balancing functionality with security and maintainability.
