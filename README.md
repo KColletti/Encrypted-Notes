@@ -35,6 +35,9 @@ https://github.com/KColletti/Encrypted-Notes/tree/main/screenshots
 - Note Saved
 - Incorrect Password
 
+## Reflection 
+Through this project, I applied key cybersecurity concepts— encryption, authentication, and secure data handling—while improving my Java programming and problem-solving skills.
+
 ## How to Run 
 - Compile and Run the files in any Java IDE or terminal
 - Create an account, log in, and start writing! Users can encrypt their notes and later unlock them with their password. To save, simply click Save, and the note can be reopened anytime.
