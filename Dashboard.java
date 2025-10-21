@@ -1,11 +1,11 @@
 
-//Dashboard
-//can add or view notes
-
 import javax.swing.*; //imports JFrame, JButton and JTextFields =GUI
 import java.awt.*; // imports gui components (layout, color, font and sizing)
 import java.util.ArrayList; //imports place to store notes in collection
 import java.util.List; //imports place to store notes in collection
+
+//Dashboard
+//can add or view notes
 
 public class Dashboard extends JFrame{
     private JTextArea notesSection; //notes area
